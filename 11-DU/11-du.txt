@@ -1,0 +1,2 @@
+vytvorit program, ktory vypise moje meno (min. 5 pismen) vzkreslene pomocou stvorcekov zo suboru pixel letters (to co je
+v tommto priecinku)
