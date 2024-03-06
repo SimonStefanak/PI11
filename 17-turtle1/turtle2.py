@@ -14,7 +14,7 @@ x = 0
 y = -10
 for j in range(8):
     for i in range(7):
-        if (i + j) % 2 == 0:
+        if (i + j)  2 == 0:
             color = "yellow"
         else:
             color = "red"
