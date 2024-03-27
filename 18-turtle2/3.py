@@ -8,7 +8,7 @@ def obluk(d):
     for i in range(9):
         t.fd(d)
         t.lt(10)
-farba = random.choice(("red", "green", "blue"))
+
 def lupen(d):
     for i in range(2):
         t.fillcolor(farba)
