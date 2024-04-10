@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="007874f2-89a0-4424-808a-6a7c40c504ec" name="Changes" comment="19-udalosti" />
+    <list default="true" id="007874f2-89a0-4424-808a-6a7c40c504ec" name="Changes" comment="cv-turtle">
+      <change afterPath="$PROJECT_DIR$/20-string/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-string/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV-4/cv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV-4/cv1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV-4/cv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV-4/cv2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XFNnwhlAcqfoTbnoW0TaNws64s" />
   <component name="ProjectViewState">
@@ -43,7 +52,7 @@
       <recent name="Z:\Python\PI11\10-modul_math_random" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PI11" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711525921726</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="cv-turtle">
+      <created>1711532616657</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711532616657</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +297,8 @@
     <MESSAGE value="14-if" />
     <MESSAGE value="17-turtle" />
     <MESSAGE value="19-udalosti" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-udalosti" />
+    <MESSAGE value="cv-turtle" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv-turtle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

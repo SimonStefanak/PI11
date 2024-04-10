@@ -18,6 +18,6 @@ def terc(p):
         color1, color2 = color2, color1
 
 
-terc(25)
+terc(20)
 
 turtle.mainloop()
