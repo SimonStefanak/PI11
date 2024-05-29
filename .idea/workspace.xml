@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="007874f2-89a0-4424-808a-6a7c40c504ec" name="Changes" comment="cv-turtle">
-      <change afterPath="$PROJECT_DIR$/20-string/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-string/2.py" afterDir="false" />
+    <list default="true" id="007874f2-89a0-4424-808a-6a7c40c504ec" name="Changes" comment="20-string">
+      <change afterPath="$PROJECT_DIR$/.idea/PI11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-textove_subory/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-textove_subory/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-textove_subory/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-textove_subory/body.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-textove_subory/mena.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-textove_subory/priezviska.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV-4/cv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV-4/cv1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV-4/cv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV-4/cv2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;Z:/Python/PI11/11-DU&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "Z:/Python/PI11/21-textove_subory",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Python\PI11\21-textove_subory" />
       <recent name="Z:\Python\PI11\11-DU" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Python\PI11\21-textove_subory" />
       <recent name="Z:\Python\PI11\13-tkinter3" />
       <recent name="Z:\Python\PI11\10-modul_math_random" />
     </key>
@@ -61,7 +69,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python\python.exe" />
-      <option name="SDK_NAME" value="Python 3.9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-udalosti" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -225,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711532616657</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="20-string">
+      <created>1712740128688</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712740128688</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +312,8 @@
     <MESSAGE value="17-turtle" />
     <MESSAGE value="19-udalosti" />
     <MESSAGE value="cv-turtle" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv-turtle" />
+    <MESSAGE value="20-string" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
